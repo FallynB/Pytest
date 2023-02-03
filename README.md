@@ -1,4 +1,4 @@
-[![](https://github.com/FallynB/html_validator/workflows/tests/badge.svg)](https://github.com/FallynB/html_validator/actions?query=workflow%3Atests)
+[![](https://github.com/FallynB/Pytest/workflows/tests/badge.svg)](https://github.com/FallynB/Pytest/actions?query=workflow%3Atests)
 
 # Pytest Lab
 
