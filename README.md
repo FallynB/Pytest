@@ -1,3 +1,5 @@
+[![](https://github.com/FallynB/html_validator/workflows/tests/badge.svg)](https://github.com/FallynB/html_validator/actions?query=workflow%3Atests)
+
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
@@ -34,7 +36,7 @@ A team of 3 is okay.
     If everything worked correctly, then you should have a copy of my repo in your repo on github.
 
 1. Modify the README file to include a test cases badge.
-
+    ```
     > **HINT:**
     > I'm not going to directly tell you how to do this.
     > Instead, you should look at a repo that already has a test cases badge and copy the format of that code.
